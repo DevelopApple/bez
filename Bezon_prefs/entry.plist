@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Bezon;
+	cell = PSLinkCell;
+	detail = BezonListController;
+	icon = Bezon.png;
+	isController = 1;
+	label = Bezon;
+    };
+}
