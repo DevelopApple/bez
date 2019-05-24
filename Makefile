@@ -1,4 +1,4 @@
-ARCHS = armv7 arm64
+ARCHS = arm64 arm64e armv7
 SDK = iPhoneOS12.1.2
 FINALPACKAGE = 1
 
